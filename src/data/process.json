@@ -1,0 +1,11 @@
+{
+  "eyebrow": "05",
+  "title": "How It Works",
+  "steps": [
+    { "number": "01", "title": "Share your brief", "description": "Send your content, reference and deadline." },
+    { "number": "02", "title": "Design direction", "description": "We understand the requirement and suggest the right approach." },
+    { "number": "03", "title": "Design", "description": "The creative work is developed around your brief." },
+    { "number": "04", "title": "Review", "description": "Feedback and revisions are aligned to your requirement." },
+    { "number": "05", "title": "Delivery", "description": "Receive ready-to-use design files." }
+  ]
+}

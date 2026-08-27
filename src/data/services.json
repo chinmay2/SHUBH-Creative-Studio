@@ -1,0 +1,31 @@
+{
+  "eyebrow": "02",
+  "title": "Core Services",
+  "footerLine": "Designed around your requirement — not a one-size-fits-all template.",
+  "items": [
+    {
+      "title": "Brand Identity & Logos",
+      "description": "Logos, brand marks, colour direction and visual consistency."
+    },
+    {
+      "title": "Social Media Creatives",
+      "description": "Posts, stories and thumbnails designed for clear communication."
+    },
+    {
+      "title": "Marketing & Print",
+      "description": "Event posters, tournament creatives, banners and visiting cards."
+    },
+    {
+      "title": "Custom Photo Edits",
+      "description": "Retouching, background changes and creative photo manipulation."
+    },
+    {
+      "title": "Invitations",
+      "description": "Digital invitation cards for personal and corporate occasions."
+    },
+    {
+      "title": "Custom Packages",
+      "description": "Monthly retainers and business packages available on request."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "brand": {
+    "name": "SHUBH CREATIVE STUDIO",
+    "shortName": "SHUBH",
+    "tagline": "Creative design that makes your brand look ready.",
+    "servicesLine": "Graphic Design • Branding • Social Media • Print Creatives",
+    "positioning": "Clean • Custom • Affordable",
+    "founder": "Shubham Rasam"
+  },
+  "contact": {
+    "phone": "+91 85914 11863",
+    "instagram": "@shubh.creativestudio",
+    "instagramUrl": "https://www.instagram.com/shubh_creativestudio/"
+  },
+  "seo": {
+    "title": "Shubh Creative Studio | Graphic Design, Branding & Creative Studio",
+    "description": "Shubh Creative Studio creates graphic design, branding, social media creatives and print design for brands that want to look ready.",
+    "keywords": [
+      "graphic design studio",
+      "branding studio",
+      "creative studio",
+      "social media creatives",
+      "print design",
+      "logo design",
+      "brand identity",
+      "Shubh Creative Studio"
+    ]
+  }
+}

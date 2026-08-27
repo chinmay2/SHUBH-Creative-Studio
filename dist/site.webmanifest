@@ -1,0 +1,10 @@
+{
+  "name": "Shubh Creative Studio",
+  "short_name": "Shubh Creative",
+  "description": "Graphic design, branding, social media creatives and print design by Shubh Creative Studio.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070d1d",
+  "theme_color": "#070d1d",
+  "icons": [{"src":"/images/shubh-favicon.png","sizes":"512x512","type":"image/png"}]
+}

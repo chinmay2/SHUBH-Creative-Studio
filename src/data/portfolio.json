@@ -1,0 +1,72 @@
+{
+  "eyebrow": "06",
+  "title": "Selected Work",
+  "intro": "A curated selection of posters, invitations, branding, apparel graphics and promotional creatives designed by SHUBH Creative Studio.",
+  "items": [
+    {
+      "n": "01",
+      "title": "Snooker Knockout Tournament",
+      "category": "EVENT POSTER",
+      "description": "High-impact tournament artwork combining sports imagery, bold typography and promotional information.",
+      "image": "/images/snooker-knockout-tournament.jpg",
+      "featured": true,
+      "fit": "contain"
+    },
+    {
+      "n": "02",
+      "title": "Live Music Poster",
+      "category": "EVENT / SOCIAL",
+      "description": "Atmospheric music promotion artwork built around performance photography, warm lighting and expressive typography.",
+      "image": "/images/live-music-poster.jpg",
+      "fit": "contain"
+    },
+    {
+      "n": "03",
+      "title": "Waffle on Wheels — Grand Opening",
+      "category": "BRAND CAMPAIGN",
+      "description": "Premium grand-opening creative with a gold-and-black visual direction for a food brand launch.",
+      "image": "/images/waffle-on-wheels-grand-opening.jpg",
+      "fit": "contain"
+    },
+    {
+      "n": "04",
+      "title": "Waffle on Wheels — Cake Bowls",
+      "category": "FOOD / PRODUCT",
+      "description": "Product-focused promotional design presenting a new dessert range with clear pricing and menu communication.",
+      "image": "/images/waffle-on-wheels-cake-bowls.jpg",
+      "fit": "contain"
+    },
+    {
+      "n": "05",
+      "title": "Naming Ceremony Invitation",
+      "category": "INVITATION DESIGN",
+      "description": "Traditional Marathi invitation artwork combining family details, decorative motifs and a refined ceremonial layout.",
+      "image": "/images/naming-ceremony-invitation.jpg",
+      "fit": "contain"
+    },
+    {
+      "n": "06",
+      "title": "Community Committee Announcement",
+      "category": "COMMUNITY DESIGN",
+      "description": "Structured Marathi communication artwork designed to present committee members and community information clearly.",
+      "image": "/images/community-committee-poster.jpg",
+      "fit": "contain"
+    },
+    {
+      "n": "07",
+      "title": "Custom Team Jersey Design",
+      "category": "APPAREL / BRANDING",
+      "description": "Custom sportswear artwork combining Marathi identity, team graphics and a cohesive navy-and-gold visual system.",
+      "image": "/images/custom-team-jersey-design.jpg",
+      "fit": "contain"
+    },
+    {
+      "n": "08",
+      "title": "KP Work Solutions",
+      "category": "BRAND / INTERIOR",
+      "description": "Promotional branding artwork for an interior and turnkey solutions business, balancing service messaging with project imagery.",
+      "image": "/images/kp-work-solutions-brand-design.jpg",
+      "fit": "contain"
+    }
+  ]
+}

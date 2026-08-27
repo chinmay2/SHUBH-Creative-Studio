@@ -1,0 +1,31 @@
+{
+  "eyebrow": "Creative Design Studio",
+  "title": [
+    {
+      "text": "Make your",
+      "accent": false
+    },
+    {
+      "text": "brand look",
+      "accent": true
+    },
+    {
+      "text": "ready.",
+      "accent": true
+    }
+  ],
+  "description": "Creative design that makes your brand look ready.",
+  "servicesLine": "Graphic Design • Branding • Social Media • Print Creatives",
+  "primaryCta": "View Our Work",
+  "secondaryCta": "Start a Project",
+  "visual": {
+    "label": "SHUBH",
+    "title": "CREATIVE STUDIO",
+    "meta": "BRAND • SOCIAL • PRINT"
+  },
+  "orbitLabels": [
+    "LOGO DESIGN",
+    "SOCIAL CREATIVE"
+  ],
+  "scrollLabel": "Scroll to explore"
+}

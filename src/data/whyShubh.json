@@ -1,0 +1,27 @@
+{
+  "eyebrow": "04",
+  "title": "Why Choose Shubh Creative?",
+  "items": [
+    {
+      "number": "01",
+      "title": "Fast turnaround",
+      "description": "Quick delivery for standard projects."
+    },
+    {
+      "number": "02",
+      "title": "Affordable pricing",
+      "description": "Entry-level rates for growing brands and creators."
+    },
+    {
+      "number": "03",
+      "title": "Clean visual style",
+      "description": "Simple layouts, strong hierarchy and polished presentation."
+    },
+    {
+      "number": "04",
+      "title": "Client-first approach",
+      "description": "Revisions and design direction aligned to your requirement."
+    }
+  ],
+  "closingLine": "Small studio. Personal attention. Professional output."
+}

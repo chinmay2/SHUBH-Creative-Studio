@@ -1,0 +1,39 @@
+{
+  "eyebrow": "03",
+  "title": "Pricing",
+  "intro": "Simple, transparent rates for standard creative requirements.",
+  "note": "Prices shown are starting / listed rates from the provided deck; custom requirements can be quoted separately.",
+  "groups": [
+    {
+      "category": "Branding",
+      "items": [
+        { "service": "Custom Logo Design", "description": "Unique, scalable logo created for your brand.", "price": "₹599" },
+        { "service": "Logo + Basic Branding", "description": "Logo, colour palette, typography and basic brand template.", "price": "₹1,000" }
+      ]
+    },
+    {
+      "category": "Social Media",
+      "items": [
+        { "service": "Instagram Post", "description": "Aesthetic grid-ready content for offers, products and announcements.", "price": "₹60" },
+        { "service": "Instagram Story", "description": "Vertical creatives for promotions, launches and daily updates.", "price": "₹50" },
+        { "service": "YouTube Thumbnail", "description": "High-CTR visual thumbnail tailored to your video.", "price": "₹100–₹120" }
+      ]
+    },
+    {
+      "category": "Marketing & Print",
+      "items": [
+        { "service": "Event / Opening Poster", "description": "Eye-catching poster for launches and announcements.", "price": "₹149" },
+        { "service": "Tournament / Sports Poster", "description": "Fixtures, team highlights and tournament promotion.", "price": "₹149" },
+        { "service": "Flex Banner", "description": "Large-format promotional design for storefronts and events.", "price": "₹200" },
+        { "service": "Visiting Card", "description": "Modern, print-ready business card layout.", "price": "₹149" }
+      ]
+    },
+    {
+      "category": "Custom",
+      "items": [
+        { "service": "Digital Invitation Cards", "description": "Elegant digital invites for weddings, birthdays and corporate events.", "price": "₹199" },
+        { "service": "Photo Creative Edit", "description": "Retouching, background replacement and creative photo manipulation.", "price": "₹99" }
+      ]
+    }
+  ]
+}
